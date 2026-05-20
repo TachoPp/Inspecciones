@@ -1,0 +1,10 @@
+{
+  "name": "Inspecciones PRL - Ponienteplast",
+  "description": "Aplicación para el registro, seguimiento y gestión de inspecciones de Prevención de Riesgos Laborales (PRL) y Medio Ambiente de Ponienteplast.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
